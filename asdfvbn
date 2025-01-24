@@ -1,2 +1,0 @@
-trials = pd.read_csv(trial_points)
-print(trials.columns)  # זה ידפיס את שמות העמודות בקובץ
